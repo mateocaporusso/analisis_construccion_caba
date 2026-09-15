@@ -22,14 +22,14 @@ La idea es mirar estos indicadores en conjunto para entender mejor qué pasó du
 ## Fuente de datos
 
 1. IPCBA — serie empalmada
-   Link: https://www.estadisticaciudad.gob.ar/eyc/banco-datos/ipcba-base-2021-100-nivel-general-indice-mensual-empalmado-con-la-serie-anterior-base-julio-2011-junio-2012-100-ciudad-de-buenos-aires-julio-de-2012-agosto-de-2025/?utm_source=chatgpt.com
+   Link: https://www.estadisticaciudad.gob.ar/eyc/banco-datos/ipcba-base-2021-100-nivel-general-indice-mensual-empalmado-con-la-serie-anterior-base-julio-2011-junio-2012-100-ciudad-de-buenos-aires-julio-de-2012-agosto-de-2025/
 2. ICC — Costo de la Construcción
-   Link: https://www.estadisticaciudad.gob.ar/eyc/categoria-banco-datos/indice-de-costo-de-la-construccion/?utm_source=chatgpt.com
+   Link: https://www.estadisticaciudad.gob.ar/eyc/banco-datos/indice-del-costo-de-la-construccion-y-variacion-porcentual-respecto-del-mes-anterior-nivel-general-y-capitulos-ciudad-de-buenos-aires-enero-de-2015-julio-de-2025/
 3. Permisos de obra
-   Link: https://www.estadisticaciudad.gob.ar/eyc/categoria-banco-datos/permisos-otorgados/?utm_source=chatgpt.com
-   Link: https://www.estadisticaciudad.gob.ar/eyc/banco-datos/permisos-otorgados-y-superficie-registrada-por-tipo-y-destino-de-la-obra-ciudad-de-buenos-aires-ano-2025/?utm_source=chatgpt.com
+   Link: https: https://www.estadisticaciudad.gob.ar/eyc/categoria-banco-datos/permisos-otorgados
+   Link: https://www.estadisticaciudad.gob.ar/eyc/banco-datos/permisos-otorgados-y-superficie-registrada-por-tipo-y-destino-de-la-obra-ciudad-de-buenos-aires-ano-2025/
 4. Precio inmobiliario USD/m²
-   Link: https://data.buenosaires.gob.ar/he/dataset/mercado-inmobiliario/resource/c6d2a64a-f60b-4b6e-9829-919139a0c1d1?utm_source=chatgpt.com
+   Link: https://data.buenosaires.gob.ar/he/dataset/mercado-inmobiliario/resource/c6d2a64a-f60b-4b6e-9829-919139a0c1d1
 
 ## Hallazgos principales
 
